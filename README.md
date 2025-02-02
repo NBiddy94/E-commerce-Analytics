@@ -7,3 +7,4 @@ Built a conversion funnel by creating pivot tables that revealed the number of u
 Preprocessed data using filters, pivot tables, and vlookups to prepare it for analysis. 
 Calculated customer retention rates and communicated results using an executive summary sheet that had information organized in a clear and concise manner. This would help business executives understand how to convert on customer sales with clear and concise detail.
 
+<img width="1710" alt="Image" src="https://github.com/user-attachments/assets/adf65c73-4c6e-4cd6-957c-49a53db1055d" />
